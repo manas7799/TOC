@@ -1,0 +1,5 @@
+Str = str(input())
+
+tokens = len(Str)
+
+print(tokens)
