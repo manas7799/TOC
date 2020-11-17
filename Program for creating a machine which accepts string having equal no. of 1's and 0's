@@ -1,0 +1,5 @@
+s = str(input("Enter the String: "))
+if s.count('1') == s.count('0'):
+    print("Accepted")
+else:
+    print("Rejected")
